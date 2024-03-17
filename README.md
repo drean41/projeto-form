@@ -1,6 +1,6 @@
 # Sobre Projeto:
 
-Um site pra aprender a lidar com formulário
+Um site apenas com HTML e CSS pra aprender a fazer um formulário.
 
 [Para visualizar o projeto com github pages](https://drean41.github.io/projeto-form/)
 
@@ -8,7 +8,6 @@ Um site pra aprender a lidar com formulário
 
 - HTML
 - CSS
-- Javascript
 - Vscode
 - Live Server
 
@@ -20,7 +19,9 @@ Um site pra aprender a lidar com formulário
 
 ### Fucionalidades do Projeto
 
-- [x] 
+- [x] Layout
+- [ ] Responsividade
+- [ ] Validação com Javascript
 
 ### Autor
 
