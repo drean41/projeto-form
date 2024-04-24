@@ -17,12 +17,6 @@ Um site apenas com HTML e CSS pra aprender a fazer um formulário.
 - Faça as modificações necessárias
 - Realize a Pull Request (PR)
 
-### Fucionalidades do Projeto
-
-- [x] Layout
-- [ ] Responsividade
-- [ ] Validação com Javascript
-
 ### Autor
 
 <a href="https://github.com/drean41">
